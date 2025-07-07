@@ -44,10 +44,6 @@ https://github.com/JonathanSalwan/ROPgadget
 
 https://github.com/trailofbits/bisc/
 
-## github repos
-
-https://github.com/zardus/ctf-tools
-
 ## forensics
 
 https://github.com/qpdf/qpdf
