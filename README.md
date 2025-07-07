@@ -13,3 +13,9 @@ https://gchq.github.io/CyberChef/
 https://cryptii.com/
 
 https://www.dcode.fr/en
+
+## web based things
+
+https://dnsdumpster.com/
+
+https://webresolver.nl/
