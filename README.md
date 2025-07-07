@@ -24,6 +24,15 @@ https://c99.nl/
 
 https://exif.tools/
 
+## binaries
+
+https://github.com/hugsy/gef
+https://github.com/longld/peda
+https://github.com/snare/voltron
+https://github.com/0vercl0k/rp
+https://github.com/JonathanSalwan/ROPgadget
+https://github.com/trailofbits/bisc/
+
 ## github repos
 
 https://github.com/zardus/ctf-tools
