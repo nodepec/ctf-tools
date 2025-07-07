@@ -21,3 +21,11 @@ https://dnsdumpster.com/
 https://webresolver.nl/
 
 https://c99.nl/
+
+## metadata
+
+https://exif.tools/
+
+## github repos
+
+https://github.com/zardus/ctf-tools
