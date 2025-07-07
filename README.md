@@ -47,3 +47,13 @@ https://github.com/trailofbits/bisc/
 ## github repos
 
 https://github.com/zardus/ctf-tools
+
+## forensics
+
+https://github.com/qpdf/qpdf
+
+https://volatilityfoundation.org/
+
+https://www.wireshark.org/
+
+https://www.sleuthkit.org/sleuthkit/
