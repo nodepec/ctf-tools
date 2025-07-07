@@ -20,6 +20,12 @@ https://webresolver.nl/
 
 https://c99.nl/
 
+https://portswigger.net/burp
+
+https://sqlmap.org/
+
+https://beefproject.com/
+
 ## metadata
 
 https://exif.tools/
